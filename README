@@ -8,3 +8,9 @@ Data types
 
 JavaScript data types that are currently supported are number, string and boolean, since they can be easily converted to a bash compatible representation.
 No recursive objects or arrays are supported.
+
+
+
+Installation
+
+npm install js2bash

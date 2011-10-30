@@ -1,0 +1,28 @@
+{
+	"name": "js2bash",
+	"version": "0.1.0alpha",
+	"description": "Use JavaScript data in the bash",
+	"homepage": "https://github.com/akidee/js2bash",
+	"author": {
+		"name": "Andreas Kalsch",
+		"email": "mail@akidee.de",
+		"url": "http://akidee.de/"
+	},
+	"engine" : {
+		"node": "0"
+	},
+	"dependencies": {
+		
+	},
+	"devDependencies": {
+		
+	},
+	"keywords": [
+		"bash",
+		"data",
+		"config",
+		"sh",
+		"shell",
+		"convert"
+	]
+}
